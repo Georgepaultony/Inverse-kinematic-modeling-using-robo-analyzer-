@@ -37,7 +37,17 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### PROCEDURE:
 
+1.open the roboanalyzer software.
 
+2.select the robot and its degrees of freedom.
+
+3.change the values of X and Y wherever necessary.
+
+4.simulate the model for inverse kinematics.
+
+5.plot the graph between the joints.
+
+6.update the DH parameters of the link configuration and end effector configuration.
 
 
 
@@ -46,25 +56,43 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### SIMULATION 
  
+ RPR ROBOT:
  
  
+ ![A](https://github.com/Georgepaultony/Inverse-kinematic-modeling-using-robo-analyzer-/assets/120088748/a1d85da0-b3dc-42b1-932e-bda3c6495de4)
+![B](https://github.com/Georgepaultony/Inverse-kinematic-modeling-using-robo-analyzer-/assets/120088748/12f311d2-4e92-4564-8dc3-d90a2fbaa66d)
+
  
+ 3R ROBOT:
+ 
+ ![C](https://github.com/Georgepaultony/Inverse-kinematic-modeling-using-robo-analyzer-/assets/120088748/64ac47b2-4d26-4bc9-88c1-3b6ec1e1cb1c)
+
  
  
  
  ### PLOT 
+ RPR ROBOT:
+ 
+ ![D](https://github.com/Georgepaultony/Inverse-kinematic-modeling-using-robo-analyzer-/assets/120088748/13714435-af77-41ac-91a4-cec4580304ce)
+
+ ![E](https://github.com/Georgepaultony/Inverse-kinematic-modeling-using-robo-analyzer-/assets/120088748/e3acfd10-3329-443f-8aa9-d6b09a4d0949)
+
+ 
+ 3R ROBOT:
+ 
+ 
+ ![F](https://github.com/Georgepaultony/Inverse-kinematic-modeling-using-robo-analyzer-/assets/120088748/686c31a9-417e-4826-ad80-34b68b356231)
+
+ 
+ 
+ 
+ ![G](https://github.com/Georgepaultony/Inverse-kinematic-modeling-using-robo-analyzer-/assets/120088748/d485f038-4303-4d85-821f-a63c8ddec2e2)
+
  
  
  
  
  
- 
- 
- 
- 
- 
- 
- 
 
  
  
@@ -82,4 +110,6 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 
-### RESULTS :  
+### RESULTS : 
+
+Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
